@@ -1,0 +1,14 @@
+[
+  {
+    "customerId": 1,
+    "customerName": "Henry"
+  },
+  {
+    "customerId": 2,
+    "customerName": "Helen"
+  },
+  {
+    "customerId": 3,
+    "customerName": "Acme"
+  }
+]
