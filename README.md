@@ -11,6 +11,9 @@ Run the application and automatically data will get load from the .json file.To 
 To check the endpoints.
 
  http://localhost:8080/customers/rewards/{customerId} - Reward points per customerId
+ 
+ 
+ 
  http://localhost:8080/customers/rewards - Reward points of all customer.
  
  
