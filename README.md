@@ -6,5 +6,11 @@
 The package name is structured as com.retailer.rewards
 Exception is thrown if customer does not exists.
 H2 in-memory database to store the information.
-Run the application and open the H2-console through browser.
+Run the application and automatically data will get load from the .json file.To check at db-level open the H2-console through browser.
 
+To check the endpoints.
+
+ http://localhost:8080/customers/rewards/{customerId} - Reward points per customerId
+ http://localhost:8080/customers/rewards - Reward points of all customer.
+ 
+ 
