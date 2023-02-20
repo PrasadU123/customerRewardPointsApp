@@ -12,6 +12,10 @@ To check the endpoints.
 
  http://localhost:8080/customers/rewards/{customerId} - Reward points per customerId
  
+ eg:
+ http://localhost:8080/customers/rewards/1     -> we have data with customerId as 1 in h2 db.
+ http://localhost:8080/customers/rewards/2     -> we have data with customerId as 2 in h2 db.
+ 
  
  
  http://localhost:8080/customers/rewards - Reward points of all customer.
